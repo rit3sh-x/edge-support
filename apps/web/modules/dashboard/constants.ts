@@ -1,0 +1,1 @@
+export const STATUS_FILTER_KEY = "edge-support-status-filter"
